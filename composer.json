@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/require-bundle",
+    "type":        "symfony-bundle",
+    "description": "RequireJS Bundle for Symfony2",
+    "keywords":    ["javascript", "amd", "symfony"],
+    "homepage":    "http://requirejs.com/",
+    "license":     ["MIT", "BSD-3"],
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\RequireBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/RequireBundle"
+}
