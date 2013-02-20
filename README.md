@@ -8,8 +8,8 @@ RequireJS 2.1.4
 Plugins:
 cs: 0.4.3
 domReady: 2.0.1
-i18n: 2.0.1
-text: 2.0.4
+i18n: 2.0.2
+text: 2.0.5
 
 ## Installation
 
