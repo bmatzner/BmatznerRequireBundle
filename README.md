@@ -3,13 +3,13 @@ RequireJS Bundle for Symfony2
 
 ## Current Version
 
-RequireJS 2.1.4
+RequireJS 2.1.6
 
 Plugins:
 cs: 0.4.3
 domReady: 2.0.1
 i18n: 2.0.2
-text: 2.0.5
+text: 2.0.6
 
 ## Installation
 
